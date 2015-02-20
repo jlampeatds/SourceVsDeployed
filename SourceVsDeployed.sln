@@ -1,0 +1,58 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceVsDeployed", "SourceVsDeployed\SourceVsDeployed.csproj", "{5D078FAF-1D15-4345-9D21-0968EBBC71A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSourceCodeManifest", "GetSourceCodeManifest\GetSourceCodeManifest.csproj", "{F9283174-9F86-4434-AF14-BD8D6E195B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSourceCodeManifest.Tests", "GetSourceCodeManifest.Tests\GetSourceCodeManifest.Tests.csproj", "{B9F95E77-6428-414F-8C52-4A1C29338201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceVsDeployed.Tests", "SourceVsDeployed.Tests\SourceVsDeployed.Tests.csproj", "{07005FF0-B0E0-4722-9CE0-C486DD2020CF}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = 
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SourceVsDeployed\\SourceVsDeployed.csproj
+		SccProjectName1 = SourceVsDeployed
+		SccLocalPath1 = SourceVsDeployed
+		SccProjectUniqueName2 = GetSourceCodeManifest\\GetSourceCodeManifest.csproj
+		SccProjectName2 = GetSourceCodeManifest
+		SccLocalPath2 = GetSourceCodeManifest
+		SccProjectUniqueName3 = GetSourceCodeManifest.Tests\\GetSourceCodeManifest.Tests.csproj
+		SccProjectName3 = GetSourceCodeManifest.Tests
+		SccLocalPath3 = GetSourceCodeManifest.Tests
+		SccProjectUniqueName4 = SourceVsDeployed.Tests\\SourceVsDeployed.Tests.csproj
+		SccProjectName4 = SourceVsDeployed.Tests
+		SccLocalPath4 = SourceVsDeployed.Tests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D078FAF-1D15-4345-9D21-0968EBBC71A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D078FAF-1D15-4345-9D21-0968EBBC71A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D078FAF-1D15-4345-9D21-0968EBBC71A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D078FAF-1D15-4345-9D21-0968EBBC71A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9283174-9F86-4434-AF14-BD8D6E195B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9283174-9F86-4434-AF14-BD8D6E195B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9283174-9F86-4434-AF14-BD8D6E195B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9283174-9F86-4434-AF14-BD8D6E195B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F95E77-6428-414F-8C52-4A1C29338201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F95E77-6428-414F-8C52-4A1C29338201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F95E77-6428-414F-8C52-4A1C29338201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F95E77-6428-414F-8C52-4A1C29338201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07005FF0-B0E0-4722-9CE0-C486DD2020CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07005FF0-B0E0-4722-9CE0-C486DD2020CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07005FF0-B0E0-4722-9CE0-C486DD2020CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07005FF0-B0E0-4722-9CE0-C486DD2020CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

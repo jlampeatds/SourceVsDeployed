@@ -1,0 +1,1 @@
+﻿Currently, only static methods from GetSourceCodeManifest are being tested.
